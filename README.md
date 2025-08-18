@@ -1,7 +1,7 @@
 ![banner](https://github.com/Jatin-gorana/Jatin-gorana/blob/main/bannerforgithub1.jpg)
 
 <h1 align="center">Hi 👋, I'm Jatin Gorana</h1>
-<h3 align="center">Software and Data Enthusiast | Open to Collaborations</h3>
+<h3 align="center">Software & Data Enthusiast | Open to Collaborations</h3>
 
 <p align="center">
   <a href="https://github.com/Jatin-gorana">
@@ -12,27 +12,64 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 B.E. in **Artificial Intelligence and Data Science** (CGPA: 9.72)
-- 💼 **Web Developer Intern @ Adlytica** – Contributing to responsive and dynamic web interfaces in collaboration with international teams.
-- 💡 Passionate about front-end development, open-source contributions, and solving real-world problems through tech.
-- 🌱 Currently exploring **Cloud technologies**
-- 🏆 Hackathon enthusiast | 1st Prize @ JamRang’25 | Top 5 @ Rubix’25
+- 🎓 B.E. in **Artificial Intelligence and Data Science** (CGPA: 9.75)  
+- 💼 Currently an **App Developer Intern @ Antrix Tech Zone**, building a multilingual, cross-platform app with QR-code scanning for versatile use cases (travel, museums, airports).  
+- 💼 Past **Web Developer Intern @ Adlytica**, where I worked on SEO-focused blogging platforms (6+) using Lovable + Make.com automations, and contributed to client projects like NetVeggie.  
+- 💡 Built impactful projects including:  
+  - **LegalAlly** – AI-powered legal research platform (Gemini fine-tuned on IndianKanoon).  
+  - **FinGyaan** – Financial literacy platform with tutorials, real-time news & personalized insights.  
+- 🌱 Exploring **Cloud & AI Agents** for scalable apps.  
+- 🏆 Hackathon enthusiast | 🥇 1st Prize @ JamRang’25 | 🏅 Top 5 @ Rubix’25  
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Featured Projects
+
+- **[LegalAlly](https://legalally.netlify.app/)** – AI-Powered Legal Research  
+  🔹 Document summarization, contract analysis & law comparison (reduced manual effort by **60%**)  
+  🔹 Case Research with **fine-tuned Gemini model** trained on IndianKanoon  
+
+- **[FinGyaan](https://codeissance2024.web.app/)** – Financial Literacy Platform  
+  🔹 Tutorials, real-time finance news & personalized insights (boosted engagement by **40%**)  
+  🔹 Secure auth & optimized Firestore, tested by **200+ users**  
+
+- **[HackSync'25](https://hacksync25.netlify.app/)** – Built & maintained official GDG TSEC hackathon site, attracting **700+ participants**  
+
+---
+
+### ⚡ Tech Stack
 
 **Languages**  
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> </p>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
+</p>
 
 **Frontend**  
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/> </p>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/> 
+</p>
 
 **Backend & DB**  
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> </p>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" height="50"/>
+
+  
+</p>
 
 **Tools**  
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> </p>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
+</p>
 
 ---
 
