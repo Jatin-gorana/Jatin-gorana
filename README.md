@@ -54,7 +54,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/> 
 </p>
 
-**Backend & DB**  
+**Backend, DB and Cloud**  
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/> 
@@ -62,8 +62,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" height="50"/>
 
   
+</p>
+
+**Mobile / Cross-Platform**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50" height="50"/>
 </p>
 
 **Tools**  
