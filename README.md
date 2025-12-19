@@ -12,8 +12,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 B.E. in **Artificial Intelligence and Data Science** (CGPA: 9.75)  
-- 💼 Currently an **App Developer Intern @ Antrix Tech Zone**, building a multilingual, cross-platform app with QR-code scanning for versatile use cases (travel, museums, airports).  
+- 🎓 B.E. in **Artificial Intelligence and Data Science** (CGPA: 9.75)
+- 💼 Currently an **Data Science Intern @ SIRO**  
+- 💼 Past **App Developer Intern @ Antrix Tech Zone**, built a multilingual, cross-platform app with QR-code scanning for versatile use cases (travel, museums, airports).  
 - 💼 Past **Web Developer Intern @ Adlytica**, where I worked on SEO-focused blogging platforms (6+) using Lovable + Make.com automations, and contributed to client projects like NetVeggie.  
 - 💡 Built impactful projects including:  
   - **LegalAlly** – AI-powered legal research platform (Gemini fine-tuned on IndianKanoon).  
